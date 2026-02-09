@@ -8,7 +8,7 @@
 ### Overview
 EoCD is a simple yet effective method for remote sensing change detection. It is based on early fusion of bi-temporal images and replaces the decoder with a parameter-free multiscale feature fusion module thereby significantly reducing the overall complexity of the model. EoCD demonstrate the optimal balance between the change detection performance and the prediction speed across a variety of encoder architectures. Additionally, EoCD demonstrate that the performance of the model is predominantly dependent on the encoder network.
 
-<img width="1024" alt="EoCD Framework" src="images/eocd_architecture.png">
+<img width="768" alt="EoCD Framework" src="images/eocd_architecture.jpg">
 
 
 ### See Also
