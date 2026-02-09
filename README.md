@@ -27,4 +27,5 @@ EoCD is a simple yet effective method for remote sensing change detection. It is
       archivePrefix={arXiv},
       primaryClass={cs.CV},
       url={https://arxiv.org/abs/2602.05882}, 
-}```
+}
+```
